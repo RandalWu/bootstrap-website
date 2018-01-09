@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.jumbotron {
+    background-color: #0BE381;
+}
+
+.navbar-custom {
+    background-color: #5AC0D6;
+}
+
+.card {
+    background-color: #0BE381;
+    width: 100%;
+}
+
+body, footer {
+    background-color: #5AC0D6;
+}
